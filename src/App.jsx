@@ -23,10 +23,10 @@ function App({ texto }) {
           Cambiar estado
         </button>
 
-        <Button texto={"Compras"} onClick={()=>{
+        <button  onClick={()=>{
           alert("Enhorabuena, por comprar");
 
-        }}></Button>
+        }}>alerta</button>
         
         <Button texto={"Carrito"}></Button>
         <Button texto={"Ayuda"}></Button>
