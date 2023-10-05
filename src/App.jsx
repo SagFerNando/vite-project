@@ -24,7 +24,7 @@ function App({ texto }) {
         </button>
 
         <button  onClick={()=>{
-          alert("Enhorabuena, por comprar");
+          alert("No hay mas verdadero o falso");
 
         }}>alerta</button>
         
